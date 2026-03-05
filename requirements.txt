@@ -1,0 +1,9 @@
+psycopg[binary]==3.2.1
+requests==2.32.3
+pydantic==2.8.2
+
+google-api-python-client==2.145.0
+google-auth==2.35.0
+google-auth-oauthlib==1.2.1
+
+python-dateutil==2.9.0.post0
